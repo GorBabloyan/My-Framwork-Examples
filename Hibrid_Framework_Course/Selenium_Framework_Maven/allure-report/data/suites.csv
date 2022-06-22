@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Sun Jun 19 23:02:50 AMT 2022","Sun Jun 19 23:02:50 AMT 2022","96","All Test Suite","D:/IntellIJ&selenium/Hibrid_Framework_Course/Selenium_Framework_Maven","testCases.TC_AddNewCustomer_003","testCases.TC_AddNewCustomer_003","addCustomer","addCustomer",""
+"broken","Sun Jun 19 23:02:44 AMT 2022","Sun Jun 19 23:02:44 AMT 2022","0","All Test Suite","D:/IntellIJ&selenium/Hibrid_Framework_Course/Selenium_Framework_Maven","testCases.TC_LoginDDT_002","testCases.TC_LoginDDT_002","loginDDT","loginDDT",""
+"broken","Sun Jun 19 23:02:35 AMT 2022","Sun Jun 19 23:02:37 AMT 2022","1785","All Test Suite","D:/IntellIJ&selenium/Hibrid_Framework_Course/Selenium_Framework_Maven","testCases.TC_LoginTest_001","testCases.TC_LoginTest_001","testLogin","testLogin",""

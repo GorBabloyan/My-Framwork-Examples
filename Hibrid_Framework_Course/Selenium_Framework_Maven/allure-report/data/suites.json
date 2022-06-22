@@ -1,0 +1,76 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "All Test Suite",
+    "children" : [ {
+      "name" : "D:/IntellIJ&selenium/Hibrid_Framework_Course/Selenium_Framework_Maven",
+      "children" : [ {
+        "name" : "testCases.TC_LoginTest_001",
+        "children" : [ {
+          "name" : "testLogin",
+          "uid" : "c03de0f8502191f1",
+          "parentUid" : "241ca0c103352e42c0810ca84f31d70d",
+          "status" : "broken",
+          "time" : {
+            "start" : 1655665355887,
+            "stop" : 1655665357672,
+            "duration" : 1785
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 2,
+          "retriesStatusChange" : false,
+          "parameters" : [ "chrome" ]
+        } ],
+        "uid" : "241ca0c103352e42c0810ca84f31d70d"
+      }, {
+        "name" : "testCases.TC_LoginDDT_002",
+        "children" : [ {
+          "name" : "loginDDT",
+          "uid" : "329ee9e899194749",
+          "parentUid" : "3d1b73c7b75140d474263c37570d3305",
+          "status" : "broken",
+          "time" : {
+            "start" : 1655665364145,
+            "stop" : 1655665364145,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ "chrome" ]
+        } ],
+        "uid" : "3d1b73c7b75140d474263c37570d3305"
+      }, {
+        "name" : "testCases.TC_AddNewCustomer_003",
+        "children" : [ {
+          "name" : "addCustomer",
+          "uid" : "8c357f34d414afca",
+          "parentUid" : "fc5e9d8ee6d83c3f19f67fa2f160d5b3",
+          "status" : "failed",
+          "time" : {
+            "start" : 1655665370528,
+            "stop" : 1655665370624,
+            "duration" : 96
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 1,
+          "retriesStatusChange" : false,
+          "parameters" : [ "chrome" ]
+        } ],
+        "uid" : "fc5e9d8ee6d83c3f19f67fa2f160d5b3"
+      } ],
+      "uid" : "b3aee6b8e6f8d91e15bf8d8b5b5c5429"
+    } ],
+    "uid" : "7d0421919ebcae780c955830177c9415"
+  } ]
+}

@@ -1,0 +1,72 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testCases",
+    "children" : [ {
+      "name" : "TC_LoginTest_001",
+      "children" : [ {
+        "name" : "testLogin",
+        "uid" : "c03de0f8502191f1",
+        "parentUid" : "c413332127f79aa5d051e77074c88987",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655665355887,
+          "stop" : 1655665357672,
+          "duration" : 1785
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "c413332127f79aa5d051e77074c88987"
+    }, {
+      "name" : "TC_LoginDDT_002",
+      "children" : [ {
+        "name" : "loginDDT",
+        "uid" : "329ee9e899194749",
+        "parentUid" : "5e329fde26c079190fdfdb793ffadd1e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655665364145,
+          "stop" : 1655665364145,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "5e329fde26c079190fdfdb793ffadd1e"
+    }, {
+      "name" : "TC_AddNewCustomer_003",
+      "children" : [ {
+        "name" : "addCustomer",
+        "uid" : "8c357f34d414afca",
+        "parentUid" : "d594026f230431efd8a7ab5b26b80b8d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1655665370528,
+          "stop" : 1655665370624,
+          "duration" : 96
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "d594026f230431efd8a7ab5b26b80b8d"
+    } ],
+    "uid" : "cfc8e8fdd97a2be9c902f7e7586bd330"
+  } ]
+}

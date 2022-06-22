@@ -1,0 +1,140 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-52C1ANV",
+    "children" : [ {
+      "name" : "15120@DESKTOP-52C1ANV.main(1)",
+      "children" : [ {
+        "name" : "loginDDT",
+        "uid" : "329ee9e899194749",
+        "parentUid" : "5eaaa7142f413f278d4d7ecae5f4a4be",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655665364145,
+          "stop" : 1655665364145,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "addCustomer",
+        "uid" : "8c357f34d414afca",
+        "parentUid" : "5eaaa7142f413f278d4d7ecae5f4a4be",
+        "status" : "failed",
+        "time" : {
+          "start" : 1655665370528,
+          "stop" : 1655665370624,
+          "duration" : 96
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 1,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "testLogin",
+        "uid" : "c03de0f8502191f1",
+        "parentUid" : "5eaaa7142f413f278d4d7ecae5f4a4be",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655665355887,
+          "stop" : 1655665357672,
+          "duration" : 1785
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 2,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "5eaaa7142f413f278d4d7ecae5f4a4be"
+    }, {
+      "name" : "5072@DESKTOP-52C1ANV.main(1)",
+      "children" : [ {
+        "name" : "testLogin",
+        "uid" : "4830783793f7ba15",
+        "parentUid" : "dbafb96187960811731ea49a1f231e14",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655649719814,
+          "stop" : 1655649727587,
+          "duration" : 7773
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "dbafb96187960811731ea49a1f231e14"
+    }, {
+      "name" : "4084@DESKTOP-52C1ANV.main(1)",
+      "children" : [ {
+        "name" : "addCustomer",
+        "uid" : "282c5cbe8659efe3",
+        "parentUid" : "6c990e19e39be6fcc5a7d6088302808c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1655650160309,
+          "stop" : 1655650160429,
+          "duration" : 120
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "loginDDT",
+        "uid" : "3376a64c4f0627d",
+        "parentUid" : "6c990e19e39be6fcc5a7d6088302808c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655650156951,
+          "stop" : 1655650156951,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      }, {
+        "name" : "testLogin",
+        "uid" : "11f465bcab37a441",
+        "parentUid" : "6c990e19e39be6fcc5a7d6088302808c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1655650147523,
+          "stop" : 1655650151692,
+          "duration" : 4169
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ "chrome" ]
+      } ],
+      "uid" : "6c990e19e39be6fcc5a7d6088302808c"
+    } ],
+    "uid" : "afc6d14dfe91d28d9bad448510622424"
+  } ]
+}

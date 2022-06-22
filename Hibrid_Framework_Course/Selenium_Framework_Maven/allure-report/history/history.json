@@ -1,0 +1,62 @@
+{
+  "f12f4d219b010e67b3fa8aade4438d47" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "329ee9e899194749",
+      "status" : "broken",
+      "statusDetails" : "java.io.FileNotFoundException: D:\\IntellIJ-selenium\\Hibrid_Framework_Course\\Selenium_Framework_Maven\\src\\test\\java\\com_InetBanking_testData\\LoginData.xlsx (The system cannot find the path specified)",
+      "time" : {
+        "start" : 1655665364145,
+        "stop" : 1655665364145,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8786463a4142b7b4305a94fb043c96d7" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8c357f34d414afca",
+      "status" : "failed",
+      "statusDetails" : "null",
+      "time" : {
+        "start" : 1655665370528,
+        "stop" : 1655665370624,
+        "duration" : 96
+      }
+    } ]
+  },
+  "10f4d07441ae5734a04d301c16672b6d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c03de0f8502191f1",
+      "status" : "broken",
+      "statusDetails" : "unexpected alert open: {Alert text : User or Password is not valid}\n  (Session info: chrome=102.0.5005.115): User or Password is not valid\nBuild info: version: '4.1.3', revision: '7b1ebf28ef'\nSystem info: host: 'DESKTOP-52C1ANV', ip: '192.168.31.63', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [c296fe909fc7fe71ec43a1a3cf222a22, getTitle {}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\\Users\\user\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:54906}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54906/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: c296fe909fc7fe71ec43a1a3cf222a22",
+      "time" : {
+        "start" : 1655665355887,
+        "stop" : 1655665357672,
+        "duration" : 1785
+      }
+    } ]
+  }
+}

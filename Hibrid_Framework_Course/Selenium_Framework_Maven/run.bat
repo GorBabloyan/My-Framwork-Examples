@@ -1,0 +1,2 @@
+cd D:\IntellIJ-selenium\Hibrid_Framework_Course\Selenium_Framework_Maven
+mvn clean install

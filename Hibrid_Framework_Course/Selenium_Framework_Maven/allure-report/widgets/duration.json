@@ -1,0 +1,31 @@
+[ {
+  "uid" : "8c357f34d414afca",
+  "name" : "addCustomer",
+  "time" : {
+    "start" : 1655665370528,
+    "stop" : 1655665370624,
+    "duration" : 96
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "329ee9e899194749",
+  "name" : "loginDDT",
+  "time" : {
+    "start" : 1655665364145,
+    "stop" : 1655665364145,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c03de0f8502191f1",
+  "name" : "testLogin",
+  "time" : {
+    "start" : 1655665355887,
+    "stop" : 1655665357672,
+    "duration" : 1785
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
